@@ -1,0 +1,15 @@
+# file system
+.DS_Store
+
+# ide
+.idea/**
+
+# venv
+venv
+
+# py cahche
+**/__pycache__
+
+# compile out
+build
+dist
